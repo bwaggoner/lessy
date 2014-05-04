@@ -1,5 +1,5 @@
 {
-    "name": "zizaco/lessy",
+    "name": "bwaggoner/lessy",
     "description": "Lessy is a simple and lean LESS compiler for Laravel",
     "keywords": ["laravel","illuminate","less","scss"],
     "license": "MIT",
